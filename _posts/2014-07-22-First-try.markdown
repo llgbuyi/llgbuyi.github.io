@@ -1,0 +1,11 @@
+---
+layout: post
+title: "First Try!"
+date: 2014-07-22 12:23:00
+categories: life
+type: life
+---
+
+>需要好好学习！！  
+>markdown  HTML  CSS  
+>需要好好生活 happy
